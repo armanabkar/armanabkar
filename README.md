@@ -1,4 +1,14 @@
 ### Hi there 👋
+## I'm Arman Abkar
+ 
+Web Developer - focusing on frontend , I also build RESTful & GraphQL APIs. / Cross platform mobile app developer.
+
+I've worked with a variety of languages and technologies, especially JavaScript & Python.
+
+***My Skills:***
+JavaScript, Python, C#, React, Vue, Angular, Svelte, Node.js, Django, Docker
+
+[LinkedIn](https://www.linkedin.com/in/armanabkar/) ~ [Personal Website](https://armanabkar.netlify.app/)
 
 <!--
 **armanabkar/armanabkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
