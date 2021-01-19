@@ -6,7 +6,7 @@ Creative & experienced Full-Stack Web Developer who is committed and passionate 
 I've worked with a variety of languages and technologies, especially JavaScript & Python.
 
 ⚡ ***My Skills:***
-JavaScript, Python, C#, Go, React, Vue, Angular, Svelte, Node.js, Django, GraphQL, Ionic, React Native, Flutter, Docker.
+JavaScript, Python, C#, Go, React, Vue, Angular, Svelte, Blazor, Node.js, Django, GraphQL, Ionic, React Native, Flutter, Docker.
 
 [LinkedIn](https://www.linkedin.com/in/armanabkar/) ~ [Personal Website](https://armanabkar.ir/)
 
