@@ -1,12 +1,12 @@
 ### Hi there 👋
 ## I'm Arman Abkar
  
-Creative & experienced Full-Stack Web Developer who is committed and passionate about learning cutting-edge technologies. Specialized in React, Vue and Angular and most of the FrontEnd frameworks, libraries, methodologies and developing RESTful/GraphQL APIs in order to build responsive and cross platform applications with high level of functionality and interactive features that will affect directly on business growth.
+Creative & experienced Software Developer who is committed and passionate about learning cutting-edge technologies. Specialized in JavaScript and most of the FrontEnd frameworks, libraries and methodologies as well as RESTful and GraphQL APIs development in order to build responsive and cross platform applications with high level of functionality and interactive features that will affect directly on business growth.
 
 I've worked with a variety of languages and technologies, especially JavaScript & Python.
 
 ⚡ ***My Skills:***
-JavaScript, Python, C#, Go, React, Vue, Angular, Svelte, Blazor, Node.js, Django, GraphQL, Ionic, React Native, Flutter, Docker.
+JavaScript, Python, C#, Go, React, Vue, Angular, Svelte, Node.js, Django, GraphQL, Ionic, React Native, Dart & Flutter, Docker.
 
 [LinkedIn](https://www.linkedin.com/in/armanabkar/) ~ [Personal Website](https://armanabkar.ir/)
 
