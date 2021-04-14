@@ -12,3 +12,5 @@ JavaScript, Python, Swift, C#, Go, React, Vue, Angular, Svelte, Node.js, Django,
 [LinkedIn](https://www.linkedin.com/in/armanabkar/) ~ [Personal Website](https://armanabkar.ir/)
 
 📫 armanabkar@gmail.com
+
+🌴 Los Angeles, California
