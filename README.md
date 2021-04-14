@@ -1,28 +1,14 @@
-### Hi there 👋
-## I'm Arman Abkar
+## Hi there 👋 I'm Arman Abkar
  
-Creative & experienced Software Developer who is committed and passionate about learning cutting-edge technologies. Specialized in JavaScript and most of the FrontEnd frameworks, libraries and methodologies as well as RESTful and GraphQL APIs development in order to build responsive and cross platform applications with high level of functionality and interactive features that will affect directly on business growth.
+Professional & experienced ***Software Developer*** with a passion for continuous learning and teaching cutting-edge technologies. Specialized in Frontend technologies, frameworks and methodologies as well as APIs development in order to build performant, cross platform and scalable applications with high level of functionality and interactive features that will affect directly on business growth and meet customer expectations.
 
-I've worked with a variety of languages and technologies, especially JavaScript & Python.
+When he is not working on computer, you can find him lifting weights in gym, playing video games on PlayStation, watching movies and anime series or reading tech related books.
+
+He have worked with a variety of languages and client-side technologies, especially JavaScript, Python and Flutter.
 
 ⚡ ***My Skills:***
-JavaScript, Python, C#, Go, React, Vue, Angular, Svelte, Node.js, Django, GraphQL, Ionic, React Native, Dart & Flutter, Docker.
+JavaScript, Python, Swift, C#, Go, React, Vue, Angular, Svelte, Node.js, Django, GraphQL, Ionic, React Native, Flutter & Dart, Docker.
 
 [LinkedIn](https://www.linkedin.com/in/armanabkar/) ~ [Personal Website](https://armanabkar.ir/)
 
 📫 armanabkar@gmail.com
-
-<!--
-**armanabkar/armanabkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
