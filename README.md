@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Arman Abkar
+## Hi there! 👋 I'm Arman Abkar
  
 Professional & experienced ***Software Developer*** with a passion for continuous learning and teaching cutting-edge technologies. Specialized in Frontend technologies, frameworks and methodologies as well as APIs development in order to build performant, cross platform and scalable applications with high level of functionality and interactive features that will affect directly on business growth and meet customer expectations.
 
