@@ -4,7 +4,7 @@ Professional & experienced ***Software Developer*** with a passion for continuou
 
 When he is not working on computer, you can find him lifting weights in gym, playing video games on PlayStation, watching movies and anime series or reading tech related books.
 
-He have worked with a variety of languages and client-side technologies, especially JavaScript, Python and Flutter.
+He have worked with a variety of languages and client-side technologies, especially JavaScript, Swift and Flutter.
 
 ⚡ ***My Skills:***
 JavaScript, Swift, React, Vue, Angular, Node.js, Flutter & Dart, Docker.
