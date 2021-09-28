@@ -1,5 +1,5 @@
 
-![cover](https://user-images.githubusercontent.com/58145413/135069352-b71bda92-f7d8-4fa5-a57b-62feb9abee7c.png)
+![cover](https://user-images.githubusercontent.com/58145413/135075017-51ec4c04-5cca-46c9-b37f-b973b29d6994.png)
 
 ## I'm Arman Abkar
  
