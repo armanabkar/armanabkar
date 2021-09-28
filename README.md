@@ -1,13 +1,15 @@
-Hi there! 👋
 
-## Arman Abkar
+![cover](https://user-images.githubusercontent.com/58145413/135069352-b71bda92-f7d8-4fa5-a57b-62feb9abee7c.png)
+
+## I'm Arman Abkar
  
-Creative ***Software Developer*** with a passion for continuous learning and applying the cutting-edge technologies to work. Specialized in Client-Side (Frontend) technologies with a strong quality mindset in order to build performant, cross-platform and scalable applications with high level of functionality and interactive features and deliver them on time that will affect directly on business growth and meet customers' expectations.
+### Software Developer and Content Creator
 
-When he is not working on computer, you can find him lifting weights in gym, playing video games, watching movies or reading tech related books.
+- **[Personal Portfolio](https://armanabkar.ir/)**
+- **Medium:** [Arman Abkar](https://medium.com/@armanabkar)
+- **Twitter:** [@armanabkar](https://twitter.com/armanabkar)
+- **LinkedIn:** [Arman Abkar](https://www.linkedin.com/in/armanabkar/)
+- **armanabkar@gmail.com**
 
-⚡ ***Skills:***
-iOS Development, Frontend & Single Page Apps Development, Swift, JavaScript, Dart
-
-[LinkedIn Profile](https://www.linkedin.com/in/armanabkar/) ~ [Personal Website](https://armanabkar.ir/)
+⚡ ***Skills:*** Swift, JavaScript, Objective-C, Dart, Python, UIKit, SwiftUI, React, Vue, Flutter, Node.js, Combine, Core Data, XCTest, Firebase, Docker, CI/CD
 
