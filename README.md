@@ -1,8 +1,7 @@
 
+![armanabkar](https://user-images.githubusercontent.com/58145413/140620103-2745b6bc-9113-4798-866d-5d8d55bc54bb.png)
 
-![cover](https://user-images.githubusercontent.com/58145413/135075017-51ec4c04-5cca-46c9-b37f-b973b29d6994.png)
-
-## Hi 👋 I'm Arman Abkar
+## Arman Abkar
  
 ###  Software Developer and Content Creator
 
@@ -14,6 +13,6 @@
 
 ⚡ ***Skills:*** 
 
-- Swift, JavaScript, Objective-C, Dart, Python  
-- UIKit, SwiftUI, React, Vue, Flutter, Node.js, Combine, Core Data, XCTest, Firebase, Docker, CI/CD
+- Swift, JavaScript, Objective-C, Dart, Kotlin, Python  
+- UIKit, SwiftUI, React, Vue, Flutter, Jetpack Compose, Node.js, Combine, Core Data, XCTest, Firebase, Docker, Git, CI/CD, UX/UI
 
