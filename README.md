@@ -1,9 +1,2 @@
-
-## > Hello World!
-
-- **[armanabkar.ir](https://armanabkar.ir/)**
-- **Medium: [Arman Abkar](https://medium.com/@armanabkar)**
-- **LinkedIn: [Arman Abkar](https://www.linkedin.com/in/armanabkar/)**
-- **armanabkar@gmail.com**
-
+Hello World, I'm Arman! I'm a  Software Developer and Content Creator, passionate about design and turning bits into magic.
 
