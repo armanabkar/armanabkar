@@ -1,2 +1,3 @@
-Hi, [I'm Arman](https://armanabkar.ir/)! Software Developer and Content Creator, specialized in client-side technologies, and passionate about design and turning bits into magic! If you require any further information, feel free to contact me at armanabkar@gmail.com.
+Hi, I'm Arman! I'm here to make the world a better and more equal place to live by developing software! Moreover, I appreciate your help, so please feel free to clone and contribute to my projects.
 
+#MahsaAmini
